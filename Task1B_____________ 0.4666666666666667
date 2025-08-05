@@ -1,4 +1,4 @@
-🤖🤖def sysCall_init():
+def sysCall_init():
     sim = require('sim')
 
     # Initialization
