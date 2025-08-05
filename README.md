@@ -37,7 +37,7 @@ This project was developed as part of the E-Yantra Competition hosted by **IIT B
 ## 📬 Contact
 Want to collaborate or have questions?
 - **GitHub**: [Yaswanthan07](https://github.com/Yaswanthan07)
-- **Email**: [yashwanthan97@gmail.com]
+- **Email**: yashwanthan97@gmail.com
 
 ---
 
